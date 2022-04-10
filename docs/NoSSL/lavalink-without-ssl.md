@@ -80,7 +80,7 @@ Secure : false
 Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
 ```bash
 Host : node1.annnekkk.tech
-Port : 17131
+Port : 12460
 Password : "youshallnotpass"
 Secure : false
 ```
