@@ -82,10 +82,11 @@ Port : 443
 Password : "mrextinctcodes"
 Secure : true
 ```
-Hosted by @ [👑MR EXTINCT CODE'S#6646](https://www.mrextinctcodes.ml)
+
+Hosted by @ [Annnekkk#2338](https://github.com/Annnekkk)
 ```bash
-Host : www.lavalinknodepublic2.ml
+Host : ssl.annnekkk.tech
 Port : 443
-Password : "mrextinctcodes"
+Password : "lavafreefromannnekkk"
 Secure : true
 ```
